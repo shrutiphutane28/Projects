@@ -28,11 +28,24 @@ Each model was evaluated and compared to determine its effectiveness in predicti
 - **Top Model Accuracy**: Decision Tree (98.95%)
 - **Second Best Accuracy**: Random Forest (98.40%)
 
-## Installation
+## Running the Project
 
-To run this project, clone the repository and install the required dependencies:
+To run this project, follow these steps:
 
-```bash
-git clone https://github.com/shrutiphutane28/Projects.git
-cd Projects
-pip install -r requirements.txt
+1. **Clone the Repository:**
+
+    ```bash
+    git clone https://github.com/shrutiphutane28/Projects.git
+    ```
+
+2. **Navigate to the `Predictive_maintenance` Folder:**
+
+    ```bash
+    cd Projects/Predictive_maintenance
+    ```
+
+3. **Install the Required Dependencies:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
